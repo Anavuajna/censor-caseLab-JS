@@ -16,4 +16,4 @@ function censor() {
 const changeScene = censor();
 changeScene('PHP', 'JS'); 
 changeScene('backend', 'frontend'); 
-console.log(changeScene('PHP is the most popular programming language for backend Web-development'))
+console.log(changeScene('PHP is the most popular programming language for backend web-development'));
